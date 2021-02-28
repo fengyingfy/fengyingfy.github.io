@@ -1,7 +1,7 @@
 ## 个人简历
 
 ## xx
-![images](https://github.com/fengyingfy/fengyingfy.github.io/blob/main/assets/images/cat.gif?raw=true)
+![images](./assets/images/cat.gif)
 ### 本科 | 团员 | 2000年5月 | 女
 ### 所在地:xx 籍贯: 芜湖
 ### xxxx@163.com +86 136xxxxxxxx
