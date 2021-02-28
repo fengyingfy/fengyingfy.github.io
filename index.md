@@ -1,37 +1,52 @@
-## Welcome to GitHub Pages
+## 个人简历
 
-You can use the [editor on GitHub](https://github.com/fengyingfy/fengyingfy.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+## xx
+### 本科 | 团员 | 2000年5月 | 女
+### 所在地:xx 籍贯: 芜湖
+### xxxx@163.com +86 136xxxxxxxx
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 个人简介
+本人是郑州大学生命科学学院的学生，参加过郑州大学大学生创新创业训练计划项目。自学并熟练掌握photoshop绘画技术, 爱好插画技术, 学习民族舞7年, 小提琴爱好者(学龄3年)。
 
-### Markdown
+本学院拟推免根据专业课成绩与科研加总排名前15%成员。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### GPA：x
+### 专业排名: x
+### 四级成绩: x
+### 六级成绩: x
 
-```markdown
-Syntax highlighted code block
+## 教育背景
+2018.9-至今 xx大学 xx技术   本科  
 
-# Header 1
-## Header 2
-### Header 3
+2015.9-2018.7 xx中学    高中    
 
-- Bulleted
-- List
+## 大学获奖情况
+2020.5 获得郑州大学院优秀团员称号
 
-1. Numbered
-2. List
+2019.5 获得全国大学生英语竞赛C类二等奖
 
-**Bold** and _Italic_ and `Code` text
+2020.5 获得优秀学生干部称号
 
-[Link](url) and ![Image](src)
-```
+2019.5 获得游学学生干部称号
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+2019.5 郑州大学校二等奖奖学金
 
-### Jekyll Themes
+2019.5 郑州大学校三好学生称号
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fengyingfy/fengyingfy.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## 科研经验
+2020.10-至今 郑州大学2021年“挑战杯”大学生课外学术科技作品竞赛 职位: 项目组组长
 
-### Support or Contact
+2020.11 包装盒专利（申请号：202030723919.X）职位: 第一发明人
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+2020.10 全国大学生生命科学竞赛”萝卜抗冻蛋白的分离与鉴定 职位: 组长
+
+2020.5-2021.5 国家级大学生创新实验项目“萝卜抗冻蛋白的分离与鉴定 职位: 组长
+
+2019.12 实用新型专利“萝卜苗水培装置 职位: 第二发明人
+
+2019.6-2021.7 植物细胞工程实验室 指导老师: 臧新 副教授
+
+## 大学主修课程
+基础课程: 大学英语、线性代数、微积分、概率论与数理统计、医用物理学
+
+专业课程: 生物化学、遗传学、微生物学、细胞生物学、分子生物学、生态学、生物统计学、仪器分析、动物生理学、植物生理学、基因组学、基因工程、细胞工程、药用植物学、植物组织培养技术、生物信息学、微生物发酵技术、酶工程、免疫学、生物化学综合实验、分子生物学综合实验
